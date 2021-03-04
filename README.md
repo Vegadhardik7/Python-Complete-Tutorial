@@ -1,8 +1,8 @@
 # My-Python
 
-This is a python Beginner to Advance series which include code's and explanation of every topic. It may help you to crack any python <b>Interview</b>. 
+This is a python Beginner to Advance series which include code's an explanation of every topic. It may help you to crack any python Interview.
 
-This repositorie is created with the guidance of <a href="https://www.youtube.com/watch?v=gfDE2a7MKjA">CodeWithHarry</a> do check out his youtube channel he had explained every thing wounderfully in <b>हिंदी</b>.
+This repository is created with the guidance of <a href="https://www.youtube.com/watch?v=gfDE2a7MKjA">CodeWithHarry</a> do check out the youtube channel he had explained everything wonderfully in <b>हिंदी</b>.
 
 # Concepts Covered:
 ### Python_Chapter1
